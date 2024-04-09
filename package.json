@@ -1,0 +1,15 @@
+{
+  "name": "demo_001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-vadivelan:vadivelansmart/demo_001.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
